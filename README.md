@@ -1,4 +1,4 @@
-### Hey! I'm Moraa :girraffe:
+### Hey! I'm Moraa 🦒
 
 
 
