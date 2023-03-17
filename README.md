@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Cynthia Moraa</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abugahh" alt="abugahh" /></a> </p>
-
-- 🔭 I’m currently working on **Learning ML**
+- 🔭 I’m currently working on **ML**
 
 - 🌱 I’m currently learning **Python**
 
@@ -24,5 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abugahh&show_icons=true&locale=en" alt="abugahh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abugahh&" alt="abugahh" /></p>
-
 
