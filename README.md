@@ -1,4 +1,4 @@
-[![MasterHead](https://mattermost.com/wp-content/uploads/2022/07/04_Git_for_NonDevs@2x-2048x1072.webp)]
+[![MasterHead](https://www.ghacks.net/wp-content/uploads/2020/10/autowall-demo-2.webp)]
 <h1 align="center">Hi 👋, I'm Cynthia Moraa</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
