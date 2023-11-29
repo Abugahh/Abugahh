@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Cynthia Moraa</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
-- 🔭 I’m currently working on **ML**
+- 🔭 I’m currently working on **ML projects**
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Data science projects**
 
-- ⚡ Fun fact **Ketchup is a vegetable**
+- ⚡ Fun fact **There's no place like 127.0.0.1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
