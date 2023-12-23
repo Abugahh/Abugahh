@@ -3,6 +3,8 @@
 
 
 #### Hello there ... General Kenobi
+- 🤓 I'm Cynthia
+  
 - 🔭 I’m currently working on **ML projects**
 
 - 🌱 I’m currently learning **Python**
@@ -11,8 +13,7 @@
   
 -  ⚡ Fun fact: **The moon has moonquakes?**
 
-### Talk to me, I am kinda awesome:
-<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
+
 <br/><br/>
 
 <br />
