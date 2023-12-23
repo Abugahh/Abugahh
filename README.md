@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ghacks.net/wp-content/uploads/2020/10/autowall-demo-2.webp)]
+[![MasterHead](https://camo.githubusercontent.com/6d0368a5cfcdd83c04a5f1deacd530588bc794e21507b6ae9bdfc174335113cd/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e676966)]
 <h1 align="center">Hi 👋, I'm Cynthia Moraa</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
