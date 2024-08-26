@@ -7,9 +7,9 @@
   
 - 🔭 I’m currently working on **ML projects**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **How to finetune LLMs**
 
-- 👯 I’m looking to collaborate on **Data science projects**
+- 👯 I’m looking to collaborate on **Data science/software dev projects**
   
 -  ⚡ Fun fact: **The moon has moonquakes?**
 
