@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **How to finetune LLMs**
 
-- 👯 I’m looking to collaborate on **Data science/software dev projects**
+- 👯 I’m looking to collaborate on **Data science/web dev projects**
   
 -  ⚡ Fun fact: **The moon has moonquakes?**
 
