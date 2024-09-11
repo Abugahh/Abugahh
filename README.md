@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **How to finetune LLMs**
 
-- 👯 I’m looking to collaborate on **Data science/web dev projects**
+- 👯 I’m looking to collaborate on **Data science/Web Dev projects**
   
 -  ⚡ Fun fact: **The moon has moonquakes?**
+
+-  🐤 Ongoing Portfolio : https://abugahh.github.io/
 
 
 <br/><br/>
