@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning **How to finetune LLMs and label datasets using lable studio**
 
 - 👯 I’m looking to collaborate on **Data science/Web Dev projects**
-  
--  ⚡ Fun fact: **Here lie some repos—where i've read error logs like love letters **
 
 -  🐤 Ongoing Portfolio : https://abugahh.github.io/
 
