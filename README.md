@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on **ML projects**
 
-- 🌱 I’m currently learning **How to finetune LLMs and label datasets using lable studio**
+- 🌱 I’m currently learning **How to finetune LLMs**
 
 - 👯 I’m looking to collaborate on **Data science/Web Dev projects**
 
