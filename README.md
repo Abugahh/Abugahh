@@ -3,7 +3,7 @@
 #### Hello there ... 
 - 🤓 I'm Cynthia
   
-- 🔭 I’m currently working on **ML projects**
+- 🔭 I’m currently working on **Data science projects**
 
 - 🌱 I’m currently learning **How to finetune LLMs**
 
